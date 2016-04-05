@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <id>Orchard.Theme.Test2</id>
+    <version>2.0.8.8</version>
+    <title>TheBootstrapTheme</title>
+    <authors>BIND</authors>
+    <owners>BIND</owners>
+    <projectUrl>http://bindtuning.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Theme customized with BindTuning - Where themes come to life.</description>
+  </metadata>
+</package>
